@@ -18,3 +18,5 @@ SOURCES += main.cpp\
 HEADERS  += radio.h
 
 FORMS    += radio.ui
+
+RESOURCES +=
